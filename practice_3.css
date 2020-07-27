@@ -1,0 +1,27 @@
+.boxcontainer1 {
+    width: 600px;
+
+    display: flex;
+    justify-content: flex-start;
+}
+.boxcontainer2 {
+    width: 600px;
+
+    display: flex;
+    justify-content: center;
+}
+.boxcontainer3 {
+    width: 600px;
+
+    display: flex;
+    justify-content: flex-end;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+
+    background-color: lightcoral;
+    margin: 3px;
+    border-radius: 5px;
+}

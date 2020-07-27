@@ -1,0 +1,21 @@
+.boxcontainer {
+    width: 500px;
+    height: 200px;
+
+    border:3px solid lightcoral;
+    border-radius: 5px;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box {
+    width:100px;
+    height:100px;
+
+    margin: 3px;
+    background-color: lightcoral;
+    border-radius: 5px;
+
+}
